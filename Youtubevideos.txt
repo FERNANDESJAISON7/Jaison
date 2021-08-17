@@ -1,0 +1,4 @@
+video_id,title,channel_title,category_id,tags,views,likes, dislikes,comment_total,thumbnail_link,date
+jt2OHQh0HoQ,iOS 11 - Apple Keynote","Apple Event",28,apple events|apple event|iphone 8|iphone x|iphone 8 plus|iphone 7s|iphone 7s plus|ios 11,7426393,78240,13548,705,https://i.ytimg.com/vi/jt2OHQh0HoQ/default_live.jpg,13.09
+AqokkXoa7uE,Holly and Phillip Meet Samantha the Sex Robot | This Morning,This Morning,24,this morning|interview|holly willoughby|phillip schofield|ruth langsford|eamonn holmes|chat shows - topic|chat show - topic|talk shows - topic|sex robot|samantha|real life,494203,2651,1309,0,https://i.ytimg.com/vi/AqokkXoa7uE/default.jpg,13.09
+YPVcg45W0z4,My DNA Test Results! I'm WHAT?!,emmablackery,24,emmablackery|emma blackery|emma|blackery|british vlogger|british youtuber|female vlogger|birdyboots|dna test|23andme|ancestry,142819,13119,151,1141,https://i.ytimg.com/vi/YPVcg45W0z4/default.jpg,13.09
